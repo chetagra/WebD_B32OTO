@@ -22,3 +22,26 @@
 .styling{
     background-color: brown;
 }
+
+.heading{
+    color: brown;
+}
+
+#head1{
+    color: burlywood;
+}
+
+#head2{
+    color: burlywood;
+}
+
+h1{
+    color: chartreuse;
+}
+
+p{
+    color: brown;
+    border-color: brown ;
+    border-width: 2px;
+    border-style: solid;
+}
